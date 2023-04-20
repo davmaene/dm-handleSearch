@@ -1,0 +1,25 @@
+{
+  "name": "dm-handlesearch",
+  "version": "1.0.0",
+  "description": "A package for searching in table JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/davmaene/dm-handleSearch.git"
+  },
+  "keywords": [
+    "handlesearch",
+    "search",
+    "js",
+    "tableSearching"
+  ],
+  "author": "maenedav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davmaene/dm-handleSearch/issues"
+  },
+  "homepage": "https://github.com/davmaene/dm-handleSearch#readme"
+}
