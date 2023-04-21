@@ -1,2 +1,2 @@
-const { handleSearch } = require("./dist/handlesearch");
-module.exports = { handleSearch }
+const { handleSearch, asyncSearch } = require("./dist/handlesearch");
+module.exports = { handleSearch, asyncSearch }
