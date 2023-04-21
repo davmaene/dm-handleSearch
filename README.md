@@ -2,6 +2,7 @@
 description: simple function to be implented for handling search in an array of objects
 
 # Installation
+it's package can be installed by npm , yarn and others...
 ## npm ( Node Package Manager )
 This package can be installed using ```npm``` by the following command </br>
 ```js

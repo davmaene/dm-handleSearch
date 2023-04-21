@@ -1,2 +1,3 @@
 const { handleSearch, asyncSearch } = require("./dist/handlesearch");
-module.exports = { handleSearch, asyncSearch };
+const { list } = require("./dist/liste"); 
+module.exports = { handleSearch, asyncSearch, sampleList: list };
