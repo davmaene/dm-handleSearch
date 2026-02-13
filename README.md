@@ -1,5 +1,5 @@
 # dm-handleSearch
-description: simple function to be implented for handling search in an array of objects
+description: Implement a simple function to handle searching within an array of object
 
 # Installation
 it's package can be installed by npm , yarn and others...
